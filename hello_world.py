@@ -1,10 +1,10 @@
 
 
-foo = input("Enter your name: ")
-if not foo:
+name = input("Enter your name: ")
+if not name:
     print("Hello World!!")
 else:
-    print("Hello ", foo)
+    print("Hello ", name)
 
 
 
